@@ -1,7 +1,8 @@
 The Rainbow
 
 Red
-blue
-black
+Blue
+Black
 Green
 Orange
+Yellow
