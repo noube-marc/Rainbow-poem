@@ -3,3 +3,5 @@ The Rainbow
 Red
 blue
 black
+Green
+Orange
